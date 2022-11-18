@@ -1,5 +1,5 @@
 ==========================
-UA Odoo School: Partner Email Checker
+Partner Email Checker
 ==========================
 
 This module extends the functionality of Partner module - check partner's email

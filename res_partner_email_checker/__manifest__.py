@@ -1,4 +1,4 @@
-# Copyright © 2022 Oneservice Consulting (<https://www.oneservice-consulting.com>)
+# Copyright © 2022 Oneservice (<https://www.oneservice-consulting.com>)
 # @author: Volodymyr Dziadyk (<dvol@oneservice.in.ua>)
 # License LGPL-3.0 or later (https://www.gnu.org/licenses/lgpl-3.0.html).
 
